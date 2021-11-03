@@ -1,0 +1,25 @@
+{
+    "Oceaniabreaks":
+    [
+        {
+        "id": 0,
+        "name": "David Beckham",
+        "team": "Manchester United",
+        "image": "Beckham.jpg",
+        "description": "Beckham scored 62 goals in 265 appearances over a 9 year period at United"
+        },
+        
+        {
+        "id": 1,
+        "name": "Eduardo Camavinga",
+        "image": "Camavinga.jpg",
+        "description": "The young French international just secured a big move to Real Madrid for 31 million Euros"
+        }
+        {
+            "id": 2,
+            "name": "Kylian Mbappe",
+            "image": "Mbappe.jpg",
+            "description": "The PSG striker was the difference in France winning the 2018 World Cup"
+        }
+    ]
+}
