@@ -23,7 +23,7 @@ app.get('/', (req, res) => {
     res.send("Please refer to the documentation on how to use this API.")
 });
 
-app.get('/api/photos', (req, res) => {
+app.get('/api/data', (req, res) => {
 
     let rawdata = fs.readFileSync('photos.json');
     let photos = JSON.parse(rawdata);
