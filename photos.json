@@ -2,24 +2,54 @@
     "Oceaniabreaks":
     [
         {
-        "id": 0,
-        "name": "David Beckham",
-        "team": "Manchester United",
-        "image": "Beckham.jpg",
-        "description": "Beckham scored 62 goals in 265 appearances over a 9 year period at United"
+            "id": 0,
+            "name": "David Beckham",
+            "team": "Manchester United",
+            "image": "Beckham.jpg",
+            "description": "Beckham scored 62 goals in 265 appearances over a 9 year period at United"
         },
         
         {
-        "id": 1,
-        "name": "Eduardo Camavinga",
-        "image": "Camavinga.jpg",
-        "description": "The young French international just secured a big move to Real Madrid for 31 million Euros"
-        }
+            "id": 1,
+            "name": "Eduardo Camavinga",
+            "team": "Real Madrid",
+            "image": "Camavinga.jpg",
+            "description": "The young French international just secured a big move to Real Madrid for 31 million Euros"
+        },
         {
             "id": 2,
             "name": "Kylian Mbappe",
+            "team": "Paris Saint-Germain",
             "image": "Mbappe.jpg",
             "description": "The PSG striker was the difference in France winning the 2018 World Cup"
+        },
+        {
+            "id": 3,
+            "name": "Luke Thomas",
+            "team": "Leicester",
+            "image": "Luke.jpg",
+            "description": "The Leicester City youngster aged 20 plays Left back"
+        },
+        {
+            "id": 4,
+            "name": "Ciro Immobile",
+            "team": "Lazio",
+            "image": "immobile.jpg",
+            "description": "The 31 year old striker from Italy currently plays for Lazio in the Serie A"
+        },
+        {
+            "id": 5,
+            "name": "Patrick Viera",
+            "team": "Arsenal",
+            "image": "Viera.jpg",
+            "description": "The French CM played for Arsenal for 9 years from 1996-2005, he currently manages Crystal Palace"
+        },
+        {
+            "id": 6,
+            "name": "Chris Wood",
+            "team": "Burnley",
+            "image": "ChrisWood.jpg",
+            "description": "The 29 year old Kiwi international often nicknamed Big Dick Chris Wood"
         }
     ]
 }
